@@ -72,3 +72,178 @@ http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/111091
 http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/98292
 #EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV" tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="CANAIS: ABERTOS",CLASSIQUE TV
 http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/98299
+#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV JUSTIÇA" tvg-logo="https://skytvplanos.com.br/img/channels/lg-167-canal-tv-justica.png" group-title="CANAIS: ABERTOS",TV JUSTIÇA
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/131568
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERDADE 2" tvg-logo="https://2.bp.blogspot.com/-f865x_mV2PY/XX10wZt8MCI/AAAAAAAAB0k/VYtPiJFnwPAx82adYhXFjlQ9TuzswlxugCLcBGAsYHQ/s320/Screenshot_2019-09-14-20-14-15.png" group-title="CANAIS: ABERTOS",TV LIBERDADE 2
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/98320
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERDADE ONLINE" tvg-logo="https://2.bp.blogspot.com/-6H8ETl4gg1w/XguRetjPBRI/AAAAAAAACUw/PiEK3F22NT8fXcsAwywOBrUH2VHxcGb6ACLcBGAsYHQ/s320/2019-12-31%2B15.15.23.png" group-title="CANAIS: ABERTOS",TV LIBERDADE ONLINE
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/98319
+#EXTINF:-1 tvg-id="" tvg-name="TV MANCHETE" tvg-logo="https://i.pinimg.com/originals/38/b6/8a/38b68ac06d3a8c75c32553ef47314fbe.png" group-title="CANAIS: ABERTOS",TV MANCHETE
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/75388
+#EXTINF:-1 tvg-id="" tvg-name="TV MONTANHA BRANCA" tvg-logo="https://pa-str.srvsite.com/arquivos/5790/logo_face-5790-20200810154626.png" group-title="CANAIS: ABERTOS",TV MONTANHA BRANCA
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/127101
+#EXTINF:-1 tvg-id="" tvg-name="TV NATAL" tvg-logo="" group-title="CANAIS: ABERTOS",TV NATAL
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/98287
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVA ONDA" tvg-logo="https://3.bp.blogspot.com/-S-iIlMTVLr8/XqX1Bwf0XMI/AAAAAAAACpI/2CEospJ1RQIdMyukE99W4IcpZ4k1epBUgCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-49-57.png" group-title="CANAIS: ABERTOS",TV NOVA ONDA
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/98297
+#EXTINF:-1 tvg-id="" tvg-name="TV SERIES(Anos 60,70,80e90)" tvg-logo="https://4.bp.blogspot.com/-1WacgxpYRQw/XyiOj13rilI/AAAAAAAADH4/0QI8x1hyzpcGKGR_MNJw5wFmo3RF-b50gCLcBGAsYHQ/s320/Screenshot_2020-08-03-19-18-35.png" group-title="CANAIS: ABERTOS",TV SERIES(Anos 60,70,80e90)
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/98316
+#EXTINF:-1 tvg-id="" tvg-name="TV SERRA VERDE" tvg-logo="https://2.bp.blogspot.com/-SWmUnnu8OR0/XuvglYFH-GI/AAAAAAAADBo/sJl61PITyb0eDDO6qjeyH_3PRytTzwvLACLcBGAsYHQ/s320/2020-06-18%2B18.42.11.png" group-title="CANAIS: ABERTOS",TV SERRA VERDE
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/98307
+#EXTINF:-1 tvg-id="" tvg-name="TV SERTÃO" tvg-logo="https://i.ibb.co/fp4CNW4/SERTAO-TV.png" group-title="CANAIS: ABERTOS",TV SERTÃO
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/128757
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIÃO DE NATAL" tvg-logo="https://1.bp.blogspot.com/-1TCGsaQEg9s/XRZKVMdeEEI/AAAAAAAABO8/0qSSE4Mih4s0bt1ukoar-LdQaGr06VTqQCLcBGAs/s320/Screenshot_2019-06-28-14-08-47.png" group-title="CANAIS: ABERTOS",TV UNIÃO DE NATAL
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/98321
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE BA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/1280px-TVE_Bahia_logo.svg.png" group-title="CANAIS: ABERTOS",TVE BA HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/134026
+#EXTINF:-1 tvg-id="" tvg-name="WEB TV PROGRESSO" tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png" group-title="CANAIS: ABERTOS",WEB TV PROGRESSO
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/98298
+#EXTINF:-1 tvg-id="Animal  Planet FHD" tvg-name="ANIMAL PLANET FULLHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132138
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40003
+#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="DISCOVERY CHANNEL FULLHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-2-1.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132157
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-2-1.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40005
+#EXTINF:-1 tvg-id="Discovery Home Health FHD" tvg-name="DISCOVERY HOME & HEALTH FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132158
+#EXTINF:-1 tvg-id="Discovery Home Health HD" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40007
+#EXTINF:-1 tvg-id="ID - Investigação Discovery HD" tvg-name="DISCOVERY ID FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY ID FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132159
+#EXTINF:-1 tvg-id="ID - Investigação Discovery HD" tvg-name="DISCOVERY ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY ID HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40023
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132161
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40009
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY THEATER HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40011
+#EXTINF:-1 tvg-id="Discovery Theater FHD" tvg-name="DISCOVERY THEATHER FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY THEATHER FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132162
+#EXTINF:-1 tvg-id="Discovery Turbo FHD" tvg-name="DISCOVERY TURBO FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY TURBO FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132163
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY TURBO HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40013
+#EXTINF:-1 tvg-id="Discovery World FHD" tvg-name="DISCOVERY WORLD FULLHD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/WORLD_RGB_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132164
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/WORLD_RGB_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40015
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 FULLHD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-295-canal-h2.png" group-title="CANAIS: DOCUMENTARIOS",H2 FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132205
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-295-canal-h2.png" group-title="CANAIS: DOCUMENTARIOS",H2 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40019
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CANAIS: DOCUMENTARIOS",HGTV FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132213
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CANAIS: DOCUMENTARIOS",HGTV HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40021
+#EXTINF:-1 tvg-id="The History Channel FHD" tvg-name="HISTORY FULLHD" tvg-logo="https://catracalivre.com.br/wp-content/uploads/2019/05/cientistas-desenvolvem-sistema-que-transmite-emocoes-pelo-ar.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132261
+#EXTINF:-1 tvg-id="History Channel HD" tvg-name="HISTORY HD" tvg-logo="https://catracalivre.com.br/wp-content/uploads/2019/05/cientistas-desenvolvem-sistema-que-transmite-emocoes-pelo-ar.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40017
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132222
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40025
+#EXTINF:-1 tvg-id="Nat Geo Wild FHD" tvg-name="NATGEO WILD FULLHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132224
+#EXTINF:-1 tvg-id="NatGeoWild HD" tvg-name="NATGEO WILD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40027
+#EXTINF:-1 tvg-id="Smithsonianchannel.br" tvg-name="SMITHSONIAN HD" tvg-logo="https://seeklogo.com/images/S/Smithsonian_Institution-logo-6857F768FD-seeklogo.com.png" group-title="CANAIS: DOCUMENTARIOS",SMITHSONIAN HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40028
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",TLC FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132262
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",TLC HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57186
+#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="CANAIS: DOCUMENTARIOS",TRAVEL BOX BRAZIL
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/58503
+#EXTINF:-1 tvg-id="0" tvg-name="ALL SPORTS" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="CANAIS: ESPORTES",ALL SPORTS
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/96646
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS FULLHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="CANAIS: ESPORTES",BAND SPORTS FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132144
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="CANAIS: ESPORTES",BAND SPORTS HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40114
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="CANAIS: ESPORTES",BAND SPORTS HD*
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57148
+#EXTINF:-1 tvg-id="Combate FHD" tvg-name="COMBATE FULLHD" tvg-logo="https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png" group-title="CANAIS: ESPORTES",COMBATE FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132154
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png" group-title="CANAIS: ESPORTES",COMBATE HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40116
+#EXTINF:-1 tvg-id="Combate FHD" tvg-name="COMBATE HD*" tvg-logo="https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png" group-title="CANAIS: ESPORTES",COMBATE HD*
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57149
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="CANAIS: ESPORTES",ESPN 2 FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132169
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="CANAIS: ESPORTES",ESPN 2 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/129955
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="CANAIS: ESPORTES",ESPN 2 HD+
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/129956
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN BRASIL FULLHD" tvg-logo="https://iconape.com/wp-content/png_logo_vector/espn-brasil-logo.png" group-title="CANAIS: ESPORTES",ESPN BRASIL FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132170
+#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-name="ESPN BRASIL HD" tvg-logo="https://iconape.com/wp-content/png_logo_vector/espn-brasil-logo.png" group-title="CANAIS: ESPORTES",ESPN BRASIL HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/129949
+#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-name="ESPN BRASIL HD+" tvg-logo="https://seeklogo.com/images/E/ESPN_Brasil-logo-3717BF9E0D-seeklogo.com.png" group-title="CANAIS: ESPORTES",ESPN BRASIL HD+
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/129950
+#EXTINF:-1 tvg-id="ESPN Extra FHD" tvg-name="ESPN EXTRA FULLHD" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/w1200-h630-p-k-no-nu/espnextra.png" group-title="CANAIS: ESPORTES",ESPN EXTRA FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132171
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA HD" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/w1200-h630-p-k-no-nu/espnextra.png" group-title="CANAIS: ESPORTES",ESPN EXTRA HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/129958
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN EXTRA HD+" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/w1200-h630-p-k-no-nu/espnextra.png" group-title="CANAIS: ESPORTES",ESPN EXTRA HD+
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/129959
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FULLHD" tvg-logo="https://i.pinimg.com/originals/a8/86/08/a8860870e22e3b062477c04aa41d9909.png" group-title="CANAIS: ESPORTES",ESPN FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132172
+#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN HD" tvg-logo="https://i.pinimg.com/originals/a8/86/08/a8860870e22e3b062477c04aa41d9909.png" group-title="CANAIS: ESPORTES",ESPN HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/129952
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD+" tvg-logo="https://i.pinimg.com/originals/a8/86/08/a8860870e22e3b062477c04aa41d9909.png" group-title="CANAIS: ESPORTES",ESPN HD+
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/129953
+#EXTINF:-1 tvg-id="Fish TV HD [Alter]" tvg-name="FISH TV FULLHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" group-title="CANAIS: ESPORTES",FISH TV FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132173
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" group-title="CANAIS: ESPORTES",FISH TV HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57150
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="FOX SPORTS 2 FULLHD" tvg-logo="https://i.pinimg.com/originals/80/da/81/80da81f404f838a714050d3f201ac7ba.png" group-title="CANAIS: ESPORTES",FOX SPORTS 2 FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132180
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.pinimg.com/originals/80/da/81/80da81f404f838a714050d3f201ac7ba.png" group-title="CANAIS: ESPORTES",FOX SPORTS 2 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57152
+#EXTINF:-1 tvg-id="Fox Sports FHD" tvg-name="FOX SPORTS FULLHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="CANAIS: ESPORTES",FOX SPORTS FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132181
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="CANAIS: ESPORTES",FOX SPORTS HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/129986
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="CANAIS: ESPORTES",FOX SPORTS HD*
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57151
+#EXTINF:-1 tvg-id="0" tvg-name="GOLF CHANNEL HD" tvg-logo="https://www.pngkey.com/png/full/142-1427918_golf-channel-logo-png.png" group-title="CANAIS: ESPORTES",GOLF CHANNEL HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/99043
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF FULLHD" tvg-logo="https://1.bp.blogspot.com/-Kah13eIiqOM/WaSezOhTndI/AAAAAAAA-Ik/RoTxgcRMxVwiNbgD43ayxIsQBmBevJfqQCLcBGAs/s640/Canal%2Boff.png" group-title="CANAIS: ESPORTES",OFF FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132228
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="https://1.bp.blogspot.com/-Kah13eIiqOM/WaSezOhTndI/AAAAAAAA-Ik/RoTxgcRMxVwiNbgD43ayxIsQBmBevJfqQCLcBGAs/s640/Canal%2Boff.png" group-title="CANAIS: ESPORTES",OFF HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40131
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD*" tvg-logo="https://1.bp.blogspot.com/-Kah13eIiqOM/WaSezOhTndI/AAAAAAAA-Ik/RoTxgcRMxVwiNbgD43ayxIsQBmBevJfqQCLcBGAs/s640/Canal%2Boff.png" group-title="CANAIS: ESPORTES",OFF HD*
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57159
+#EXTINF:-1 tvg-id="Sportv 2 FHD" tvg-name="SPORTV 2 FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV 2 FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132248
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv2_m.png" group-title="CANAIS: ESPORTES",SPORTV 2 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40135
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 HD*" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv2_m.png" group-title="CANAIS: ESPORTES",SPORTV 2 HD*
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57157
+#EXTINF:-1 tvg-id="Sportv 3 FHD" tvg-name="SPORTV 3 FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV 3 FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132249
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="CANAIS: ESPORTES",SPORTV 3 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40136
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="CANAIS: ESPORTES",SPORTV 3 HD*
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57158
+#EXTINF:-1 tvg-id="Sportv FHD" tvg-name="SPORTV FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132250
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV HD" tvg-logo="https://4.bp.blogspot.com/-enCRw0jlLvU/VcKcIN9EZeI/AAAAAAAAk6M/azWHK5AYHek/s1600/sportvlogo.png" group-title="CANAIS: ESPORTES",SPORTV HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40137
+#EXTINF:-1 tvg-id="Sportv FHD" tvg-name="SPORTV HD*" tvg-logo="https://4.bp.blogspot.com/-enCRw0jlLvU/VcKcIN9EZeI/AAAAAAAAk6M/azWHK5AYHek/s1600/sportvlogo.png" group-title="CANAIS: ESPORTES",SPORTV HD*
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57156
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS: ESPORTES",WOOHOO FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132277
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS: ESPORTES",WOOHOO HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57160
+#EXTINF:-1 tvg-id="" tvg-name="BOTAFOGO TV 01 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/cb57b7eaddbbab40738d935b71fe48c3.png" group-title="CANAIS: ESPORTES ESPECIAIS",BOTAFOGO TV 01 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138146
+#EXTINF:-1 tvg-id="" tvg-name="BOTAFOGO TV 01 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/cb57b7eaddbbab40738d935b71fe48c3.png" group-title="CANAIS: ESPORTES ESPECIAIS",BOTAFOGO TV 01 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138147
+#EXTINF:-1 tvg-id="" tvg-name="BOTAFOGO TV 02 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/cb57b7eaddbbab40738d935b71fe48c3.png" group-title="CANAIS: ESPORTES ESPECIAIS",BOTAFOGO TV 02 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138148
+
