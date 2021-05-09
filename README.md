@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANAIS: 4K",ANIMAL PLANET 4K
 http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/58401
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: 4K",BAND 4K
