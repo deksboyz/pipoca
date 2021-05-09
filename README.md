@@ -246,4 +246,169 @@ http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138146
 http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138147
 #EXTINF:-1 tvg-id="" tvg-name="BOTAFOGO TV 02 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/cb57b7eaddbbab40738d935b71fe48c3.png" group-title="CANAIS: ESPORTES ESPECIAIS",BOTAFOGO TV 02 HD
 http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138148
-
+#EXTINF:-1 tvg-id="" tvg-name="BOTAFOGO TV 02 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/cb57b7eaddbbab40738d935b71fe48c3.png" group-title="CANAIS: ESPORTES ESPECIAIS",BOTAFOGO TV 02 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138149
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA OFICIAL" tvg-logo="https://portal6.com.br/wp-content/uploads/2017/01/Selo_CampeonatoCarioca.png" group-title="CANAIS: ESPORTES ESPECIAIS",CAMPEONATO CARIOCA OFICIAL
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132589
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MINEIRO 01 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/4ebd440d99504722d80de606ea8507da.png" group-title="CANAIS: ESPORTES ESPECIAIS",CAMPEONATO MINEIRO 01 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138138
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MINEIRO 01 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/4ebd440d99504722d80de606ea8507da.png" group-title="CANAIS: ESPORTES ESPECIAIS",CAMPEONATO MINEIRO 01 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138139
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MINEIRO 02 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/4ebd440d99504722d80de606ea8507da.png" group-title="CANAIS: ESPORTES ESPECIAIS",CAMPEONATO MINEIRO 02 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138140
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MINEIRO 02 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/4ebd440d99504722d80de606ea8507da.png" group-title="CANAIS: ESPORTES ESPECIAIS",CAMPEONATO MINEIRO 02 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138141
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/25f6572d80fca6fbcf89a31942ae095b.png" group-title="CANAIS: ESPORTES ESPECIAIS",CARIOCÃO
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138066
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO 2" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/25f6572d80fca6fbcf89a31942ae095b.png" group-title="CANAIS: ESPORTES ESPECIAIS",CARIOCÃO 2
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138068
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO 2 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/25f6572d80fca6fbcf89a31942ae095b.png" group-title="CANAIS: ESPORTES ESPECIAIS",CARIOCÃO 2 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138067
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO FULLHD" tvg-logo="https://campcarioca.com.br/wp-content/uploads/2021/02/cropped-logo-1.png" group-title="CANAIS: ESPORTES ESPECIAIS",CARIOCÃO FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138064
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/25f6572d80fca6fbcf89a31942ae095b.png" group-title="CANAIS: ESPORTES ESPECIAIS",CARIOCÃO HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138065
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/b1a9e4fc5726288c44fe4eb28c2b3fb9.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL 1
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138073
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 FULLHD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/b1a9e4fc5726288c44fe4eb28c2b3fb9.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL 1 FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138074
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/b1a9e4fc5726288c44fe4eb28c2b3fb9.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL 2
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138075
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 FULLHD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/b1a9e4fc5726288c44fe4eb28c2b3fb9.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL 2 FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138076
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/b1a9e4fc5726288c44fe4eb28c2b3fb9.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL 3
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138077
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 FULLHD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/b1a9e4fc5726288c44fe4eb28c2b3fb9.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL 3 FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138078
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/b1a9e4fc5726288c44fe4eb28c2b3fb9.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL 4
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138079
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 FULLHD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/b1a9e4fc5726288c44fe4eb28c2b3fb9.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL 4 FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138080
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/04b842a937a179e69c95366964b3273b.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA CATARINENSE
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138081
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/04b842a937a179e69c95366964b3273b.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA CATARINENSE 2
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138082
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/04b842a937a179e69c95366964b3273b.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA CATARINENSE 2 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138083
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 3" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/04b842a937a179e69c95366964b3273b.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA CATARINENSE 3
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138084
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 3 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/04b842a937a179e69c95366964b3273b.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA CATARINENSE 3 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138085
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 4" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/04b842a937a179e69c95366964b3273b.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA CATARINENSE 4
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138086
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 4 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/04b842a937a179e69c95366964b3273b.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA CATARINENSE 4 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138087
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/04b842a937a179e69c95366964b3273b.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA CATARINENSE HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138088
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/5631eb07e7db08d61ba10d8907b937e4.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA DO NORDESTE
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138089
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/5631eb07e7db08d61ba10d8907b937e4.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA DO NORDESTE 2
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138090
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/5631eb07e7db08d61ba10d8907b937e4.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA DO NORDESTE 2 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138091
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/5631eb07e7db08d61ba10d8907b937e4.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA DO NORDESTE 3
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138092
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/5631eb07e7db08d61ba10d8907b937e4.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA DO NORDESTE 3 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138093
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/5631eb07e7db08d61ba10d8907b937e4.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA DO NORDESTE HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138094
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE OFICIAL" tvg-logo="https://www.ogol.com.br/img/logos/competicoes/921_imgbank_cn_20150701164442.png" group-title="CANAIS: ESPORTES ESPECIAIS",COPA NORDESTE OFICIAL
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132632
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FULLHD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/afc6cdbeb8d0332c4977764380e2d567.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138095
+#EXTINF:-1 tvg-id="" tvg-name="DAZN OFICIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN OFICIAL
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132631
+#EXTINF:-1 tvg-id="" tvg-name="DAZN2" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/afc6cdbeb8d0332c4977764380e2d567.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN2
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138096
+#EXTINF:-1 tvg-id="" tvg-name="DAZN2 FULLHD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/afc6cdbeb8d0332c4977764380e2d567.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN2 FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138097
+#EXTINF:-1 tvg-id="" tvg-name="DAZN2 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/afc6cdbeb8d0332c4977764380e2d567.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN2 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138098
+#EXTINF:-1 tvg-id="" tvg-name="DAZN²" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/afc6cdbeb8d0332c4977764380e2d567.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN²
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138099
+#EXTINF:-1 tvg-id="" tvg-name="FLATV 01 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/a280dc7d0d9a0cafb9615d368323c0d4.png" group-title="CANAIS: ESPORTES ESPECIAIS",FLATV 01 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138069
+#EXTINF:-1 tvg-id="" tvg-name="FLATV 01 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/a280dc7d0d9a0cafb9615d368323c0d4.png" group-title="CANAIS: ESPORTES ESPECIAIS",FLATV 01 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138070
+#EXTINF:-1 tvg-id="" tvg-name="FLATV 02 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/a280dc7d0d9a0cafb9615d368323c0d4.png" group-title="CANAIS: ESPORTES ESPECIAIS",FLATV 02 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138071
+#EXTINF:-1 tvg-id="" tvg-name="FLATV 02 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/a280dc7d0d9a0cafb9615d368323c0d4.png" group-title="CANAIS: ESPORTES ESPECIAIS",FLATV 02 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138072
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/ed2c01c67be72f8c29f14b4890e49085.png" group-title="CANAIS: ESPORTES ESPECIAIS",LIGA FUTSAL 2 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138102
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/ed2c01c67be72f8c29f14b4890e49085.png" group-title="CANAIS: ESPORTES ESPECIAIS",LIGA FUTSAL 2 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138103
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/ed2c01c67be72f8c29f14b4890e49085.png" group-title="CANAIS: ESPORTES ESPECIAIS",LIGA FUTSAL HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138100
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/ed2c01c67be72f8c29f14b4890e49085.png" group-title="CANAIS: ESPORTES ESPECIAIS",LIGA FUTSAL SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138101
+#EXTINF:-1 tvg-id="" tvg-name="ONE FOOTBALL 02 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/3af9de0f0091aeee93dca66e83c38972.png" group-title="CANAIS: ESPORTES ESPECIAIS",ONE FOOTBALL 02 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138126
+#EXTINF:-1 tvg-id="" tvg-name="ONE FOOTBALL 03 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/3af9de0f0091aeee93dca66e83c38972.png" group-title="CANAIS: ESPORTES ESPECIAIS",ONE FOOTBALL 03 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138127
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138104
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 2
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138105
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 2 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138106
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 3
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138107
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 3 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138108
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 4 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138109
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 4 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138110
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 5 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138111
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 5 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138112
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 6 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138113
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 6 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138114
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 7 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 7 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138115
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 7 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 7 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138116
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 8 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 8 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138117
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 8 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 8 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138118
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/08bfd3c9b0258f1797ecbeee925a9b95.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138119
+#EXTINF:-1 tvg-id="" tvg-name="VASCO TV 01 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/f307c55de7647649bb30089d39eca89c.png" group-title="CANAIS: ESPORTES ESPECIAIS",VASCO TV 01 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138134
+#EXTINF:-1 tvg-id="" tvg-name="VASCO TV 01 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/f307c55de7647649bb30089d39eca89c.png" group-title="CANAIS: ESPORTES ESPECIAIS",VASCO TV 01 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138135
+#EXTINF:-1 tvg-id="" tvg-name="VASCO TV 02 HD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/f307c55de7647649bb30089d39eca89c.png" group-title="CANAIS: ESPORTES ESPECIAIS",VASCO TV 02 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138136
+#EXTINF:-1 tvg-id="" tvg-name="VASCO TV 02 SD" tvg-logo="http://tu22.frtsaopaulo.tech:80/images/f307c55de7647649bb30089d39eca89c.png" group-title="CANAIS: ESPORTES ESPECIAIS",VASCO TV 02 SD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/138137
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1200px-BTV_Red.svg.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",BTV
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132525
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",ELEVEN SPORTS 1
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132512
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",ELEVEN SPORTS 2
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132513
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",ELEVEN SPORTS 3
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132514
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",GOLF CHANNEL
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132526
+#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK" tvg-logo="https://purepng.com/public/uploads/large/mlb-network-logo-aba.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",MLB NETWORK
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132509
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://seeklogo.com/images/N/nba-tv-ii-logo-FD87903C1E-seeklogo.com.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",NBA TV
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132516
+#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",NFL NETWORK HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132510
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",RED BULL TV
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132515
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV +" tvg-logo="https://makeawish.pt/wp-content/uploads/2019/08/34.-Sport-Tv-e1566482596930.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV +
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132517
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 1
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132518
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 2
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132519
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 3
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132520
