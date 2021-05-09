@@ -412,3 +412,79 @@ http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132518
 http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132519
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 3
 http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132520
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="CANAIS: FILMES E SERIES",A&E FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132137
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="CANAIS: FILMES E SERIES",A&E HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40074
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CANAIS: FILMES E SERIES",AMC HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40076
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FULLHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="CANAIS: FILMES E SERIES",AXN FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132140
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="CANAIS: FILMES E SERIES",AXN HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40078
+#EXTINF:-1 tvg-id="Canal Sony HD" tvg-name="CANAL SONY FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS: FILMES E SERIES",CANAL SONY FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132246
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS: FILMES E SERIES",CANAL SONY HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40082
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" group-title="CANAIS: FILMES E SERIES",CINEMAX FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132150
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" group-title="CANAIS: FILMES E SERIES",CINEMAX HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40080
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1097px-FX-logo.svg.png" group-title="CANAIS: FILMES E SERIES",FX FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132182
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1097px-FX-logo.svg.png" group-title="CANAIS: FILMES E SERIES",FX HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40090
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132218
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40092
+#EXTINF:-1 tvg-id="Paramount" tvg-name="PARAMOUNT CHANNEL FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/250px-Paramount.png" group-title="CANAIS: FILMES E SERIES",PARAMOUNT CHANNEL FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132229
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/250px-Paramount.png" group-title="CANAIS: FILMES E SERIES",PARAMOUNT CHANNEL HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57188
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE FULLHD" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="CANAIS: FILMES E SERIES",SPACE FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132247
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="CANAIS: FILMES E SERIES",SPACE HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40096
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD*" tvg-logo="https://multicanais.com/wp-content/uploads/2019/09/Space-ao-vivo.png" group-title="CANAIS: FILMES E SERIES",SPACE HD*
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57189
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="STAR CHANNEL FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CANAIS: FILMES E SERIES",STAR CHANNEL FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132175
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CANAIS: FILMES E SERIES",STAR CHANNEL HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40084
+#EXTINF:-1 tvg-id="Star Hits 1 HD" tvg-name="STAR HITS 1 FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/512px-Star_Hits_2020.svg.png" group-title="CANAIS: FILMES E SERIES",STAR HITS 1 FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132178
+#EXTINF:-1 tvg-id="Star Hits 2 HD" tvg-name="STAR HITS 2 FULLHD" tvg-logo="https://forounivers.com/uploads/monthly_2021_02/large.454784291_StarHits2Brasil.png.248183f2d377eb2bfd7092cc4ecc8a0d.png" group-title="CANAIS: FILMES E SERIES",STAR HITS 2 FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132179
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="https://forounivers.com/uploads/monthly_2021_02/large.454784291_StarHits2Brasil.png.248183f2d377eb2bfd7092cc4ecc8a0d.png" group-title="CANAIS: FILMES E SERIES",STAR HITS 2 HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40088
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/512px-Star_Hits_2020.svg.png" group-title="CANAIS: FILMES E SERIES",STAR HITS HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40086
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132251
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40098
+#EXTINF:-1 tvg-id="Syfy HD" tvg-name="SYFY FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1024px-Syfy.svg.png" group-title="CANAIS: FILMES E SERIES",SYFY FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132252
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1024px-Syfy.svg.png" group-title="CANAIS: FILMES E SERIES",SYFY HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40100
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS FULLHD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tbs-logo-png-4.png" group-title="CANAIS: FILMES E SERIES",TBS FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132253
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tbs-logo-png-4.png" group-title="CANAIS: FILMES E SERIES",TBS HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40102
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS: FILMES E SERIES",TCM FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132254
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS: FILMES E SERIES",TCM HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/57185
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FULLHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-hd_m.png" group-title="CANAIS: FILMES E SERIES",TNT FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132263
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-hd_m.png" group-title="CANAIS: FILMES E SERIES",TNT HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/129985
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="CANAIS: FILMES E SERIES",TNT SERIES FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132264
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="CANAIS: FILMES E SERIES",TNT SERIES HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/40108
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL FULLHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Universal_Channel_logo.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL CHANNEL FULLHD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/132273
+#EXTINF:-1 tvg-id="Universal Channels HD" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Universal_Channel_logo.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://tu22.frtsaopaulo.tech:80/funileirog/fu2233/107276
